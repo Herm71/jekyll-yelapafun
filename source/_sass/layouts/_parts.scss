@@ -2,3 +2,11 @@
     margin-bottom: 0;
     font-style: italic;
 }
+
+nav {
+    a {
+        background-color: $color__yelapa-samlmon;
+        color: $color__text-screen;
+        font-weight: 700;
+    }
+}

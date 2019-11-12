@@ -1,15 +1,23 @@
 /**
+ * Theme Colors
+ */
+
+$color__yelapa-green: #C4C72C;
+$color__yelapa-samlmon: #F27853;
+$color__yelapa-blue: #3a9cb5;
+
+/**
  * General Colors
  */
 
 $color__background-body: #fefefe;
-$color__background-content: rgba(58, 156, 181, 1.0);
+$color__background-content: $color__yelapa-blue;
 $color__background-screen: #f1f1f1;
 $color__background-hr: #ccc;
 $color__background-button: orange;
 $color__background-pre: #eee;
 $color__background-ins: #fff9c0;
-$color__text-screen: #ffffff;
+$color__text-screen: #fefefe;
 $color__text-input: #666;
 $color__text-input-focus: #111;
 $color__link: blue;
