@@ -1,0 +1,8 @@
+<div class="elsewhere">
+    {% for item in site.data.elsewhere %}
+
+    <a href="{{ item.link }}" alt="{{item.name}}" title="{{item.name}}">
+        <i class="{{item.fontAwesome}}"></i><span>{{item.name}}</span>
+    </a>
+    {% endfor %}
+</div>

@@ -1,0 +1,10 @@
+.asset-cache
+.jekyll-cache
+.jekyll-assets-cache
+.bundle
+.sass-cache
+build
+vendor
+node_modules
+Gemfile.lock
+_raw

@@ -1,0 +1,9 @@
+//
+// Device Screen Sizes
+//==========================
+$screen-size--tiny: 25.938em; //415px or 1px wider than the widest portrait phone;
+$screen-size--small: 48em; //768px or iPad portrait;
+$screen-size--medium: 67.5em; //1080px;
+$screen-size--large: $size__max-width; // 1170px;
+// $screen-size--larger: 1340px;
+// $screen-size--huge: 1600px;

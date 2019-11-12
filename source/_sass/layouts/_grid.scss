@@ -1,0 +1,64 @@
+body {
+    background-color: $color__background-body;
+    display: grid;
+    grid-template-columns: auto;
+    @media only screen and (min-width: $screen-size--medium) {
+        grid-template-rows: min-content auto auto min-content;
+    }
+    header {
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: min-content;
+        @media only screen and (min-width: $screen-size--medium) {
+            grid-template-columns: 50% auto;
+        }
+        nav {
+            display: grid;
+            grid-template-columns: repeat(4, min-content);
+            justify-content: center;
+            align-items: center;
+            a {
+                display: inline-block;
+                padding: 10px;
+                outline: 1px solid black;
+                min-width: 100px;
+                text-align: center;
+            }
+        }
+    }
+    .banner {
+        margin: 0 auto;
+        max-width: $size__max-width;
+    }
+    .main {
+        display: grid;
+        grid-template-rows: min-content;
+        justify-content: center;
+        align-content: center;
+        .content {
+            margin: 5px auto;
+            padding: 10px;
+        }
+    }
+}
+
+.rates {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-template-rows: auto auto;
+}
+
+.elsewhere {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: auto auto;
+    grid-column-gap: 1em;
+}
+
+.footer-credits {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    // grid-template-rows: auto auto;
+    justify-content: center;
+    align-content: center;
+}

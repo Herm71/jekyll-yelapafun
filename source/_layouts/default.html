@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Pacifico|Raleway:400,700&display=swap" rel="stylesheet">
+    <link rel='stylesheet' id='font-awesome-css' href='https://use.fontawesome.com/releases/v5.8.0/css/all.css' type='text/css' media='all' />
+    <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="site-title-container">
+            <h1 class="site-title"> {{site.title}}</h1>
+            <p class="site-description">{{site.description}}</p>
+        </div>
+        {% include navigation.html %}
+
+    </header>
+    <!-- <div class="banner"><img src="https://d33wubrfki0l68.cloudfront.net/d83d8d3fabfd003176ee958855b295dc57eec642/d7d3c/assets/2019/lightning-e9a125ef9c009621d5b2b0e3f57b1b8013b98e8cdaa4e479e2cbd0598d8b5d14.jpg"></div> -->
+
+    {% if page.url == "/" %}
+    <div class="banner"> {% include youtube-player.html id=page.youtubeId %}</div>
+    {% endif %}
+
+    <div class="main">
+        <section class="content">
+            {{ content }}
+        </section>
+
+    </div>
+    <footer>
+        {% include footer.html %}
+    </footer>
+</body>
+
+</html>

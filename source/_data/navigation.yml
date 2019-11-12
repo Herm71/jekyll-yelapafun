@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Casa Luna
+  link: /casa-luna/
+- name: FAQ
+  link: /faq/

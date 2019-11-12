@@ -1,0 +1,49 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  #- jekyll-assets
+  - bourbon
+  - neat
+
+# Structure configuration
+source: ./source
+destination: ./build
+
+
+
+# Site Settings
+title: "Casa Luna @ Casas Santa Cruz"
+description: a retreat from the busy world
+timezone: America/Los_Angeles
+url: http://yelapafun.com
+
+# Build Settings
+markdown: kramdown
+kramdown:
+  auto_ids: false
+
+include: ['_pages']
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# exclude:
+  # - Gemfile
+  # - Gemfile.lock
+  # - node_modules
+  # - vendor/bundle/
+  # - vendor/cache/
+  # - vendor/gems/
+  # - vendor/ruby/
+#Asset configuraton
+#assets:
+#  compress:
+#    css: true
+#    js: true
+#  digest: true
+#  cache: .asset-cache
