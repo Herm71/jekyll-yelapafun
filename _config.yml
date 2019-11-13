@@ -16,7 +16,7 @@ destination: ./build
 title: "Casa Luna @ Casas Santa Cruz"
 description: a retreat from the busy world
 timezone: America/Los_Angeles
-url: http://yelapafun.com
+url: https://www.yelapafun.com
 
 # Build Settings
 markdown: kramdown

@@ -17,7 +17,7 @@ The upper level has a hanging queen-size bed, a small private living room and a 
 
 All our casitas come stocked with linens, towels and dishes for your comfort and a lockbox for your valuables.
 
-## Featuring
+## Amenities
 
 - **Beds:** 2 queens and one twin/couch
 
