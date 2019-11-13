@@ -1,8 +1,10 @@
 <ul class="footer-credits">
     {% for item in site.data.footerCredits %}
-    <li><i class="{{item.fontAwesome}}"></i><a href="{{ item.link }}">
-      {{ item.name }}
-    </a></li> {% endfor %}
+    <li>
+        <a href="{{ item.link }}">
+            <i class="{{item.fontAwesome}}"></i>
+        </a>
+    </li> {% endfor %}
 </ul>
 <div class="copyright">
     <p>copyright 2004-{{ "now" | date: "%Y"}}</p>

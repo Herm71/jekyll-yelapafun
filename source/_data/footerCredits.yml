@@ -1,12 +1,12 @@
-- name: Walter
-  link: "http://www.ucsc.edu"
-  fontAwesome: "fab fa-adn"
-- name: Ezekial
-  link: "http://www.ucsc.edu"
-  fontAwesome: "fas fa-ambulance"
-- name: Jeremiah
-  link: "http://www.ucsc.edu"
-  fontAwesome: "fab fa-twitter"
-- name: Ruth
-  link: "http://www.ucsc.edu"
-  fontAwesome: "fab fa-google"
+- name: AirBnB
+  link: "https://www.airbnb.com/rooms/3006542?source_impression_id=p3_1573525798_6GsWbSlzRI4cMYEY"
+  fontAwesome: "fab fa-airbnb"
+- name: Trip Advisor
+  link: "https://www.tripadvisor.com/VacationRentalReview-g504234-d11800247-Casa_Luna-Yelapa_Costalegre.html"
+  fontAwesome: "fab fa-tripadvisor"
+- name: Facebook
+  link: "https://www.facebook.com/yelapafun/"
+  fontAwesome: "fab fa-facebook"
+- name: Email
+  link: "mailto:info@yelapafun.com"
+  fontAwesome: "far fa-envelope"

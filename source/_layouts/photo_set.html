@@ -1,15 +1,12 @@
---- 
-layout: default 
---- 
-
-{% assign num = page.photos.size %}
+--- layout: default --- {% assign num = page.photos.size %}
 
 <h1>{{ page.title }}</h1>
-<ul class="photo-set">
+<ul class="photo-set no-list-style">
     {% for i in (1..num) %}
     <li>
-        <img src="{{ site.baseurl }}/assets/images/gallery/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+        <a href="{{ site.baseurl }}/assets/images/gallery/{{ page.photos.set }}-{{ i }}.jpg" data-lightbox="{{ page.photos.set }}" data-title="{{ page.photos.set }}-{{ i }}.jpg"><img src="{{ site.baseurl }}/assets/images/gallery/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}"><span class="photo-set-image-description"></span></a>
     </li>
+
     {% endfor %}
 </ul>
 <div>

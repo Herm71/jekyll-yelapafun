@@ -1,6 +1,4 @@
-- name: About
-  link: /about/
 - name: FAQ
   link: /faq/
-- name: Photos
-  link: /photos/
+- name: Getting Here
+  link: /getting-to-yelapa/

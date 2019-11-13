@@ -1,0 +1,75 @@
+a {
+    color: $color__link;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    &:visited {
+        color: $color__link-visited;
+    }
+    &:hover,
+    &:focus,
+    &:active {
+        color: $color__link-hover;
+        border-bottom: 2px solid $color__yelapa-blue;
+    }
+    &:focus {
+        outline: thin dotted;
+    }
+    &:hover,
+    &:active {
+        outline: 0;
+    }
+}
+
+
+/**
+ * Site Title
+ */
+
+.site-title-container {
+    a {
+        &:hover {
+            .site-title,
+            .site-description {
+                color: $color__yelapa-salmon;
+            }
+        }
+    }
+}
+
+
+/**
+ * Back To Top Button
+ */
+
+.topbutton {
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    right: 15px;
+    bottom: 30px;
+    z-index: 99999;
+    background-repeat: no-repeat;
+    display: none;
+    border-bottom: none;
+    color: $color__yelapa-blue;
+    &:hover,
+    &.focus,
+    &.active,
+    &.visited {
+        border-bottom: none;
+        color: $color__yelapa-blue
+    }
+}
+
+
+/**
+ *  Color White
+ */
+
+.photo-set,
+nav {
+    a {
+        color: $color__text-screen;
+    }
+}

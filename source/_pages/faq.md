@@ -2,15 +2,15 @@
 layout: default
 title: Frequently Asked Questions
 permalink: "/faq/"
+banner: "yelapa-pier.jpg"
 ---
 
 
-<h1>{{page.title 
-}}</h1>
+<h1>{{page.title }}</h1>
 
 ## How do I get there?
 
-There are no roads to Yelapa from Puerto Vallarta. Visitors typically arrive by boat. We have a couple of pages that describe how to get here. Please see: [Getting to Yelapa](#)
+There are no roads to Yelapa from Puerto Vallarta. Visitors typically arrive by boat. We have a couple of pages that describe how to get here. Please see: [Getting to Yelapa]({{site.url}}/getting-to-yelapa/)
 
 ## Water Taxi Information
 

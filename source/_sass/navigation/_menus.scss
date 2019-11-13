@@ -1,0 +1,30 @@
+header {
+    nav {
+        padding-bottom: 1em;
+        @media only screen and (min-width: $screen-size--medium) {
+            padding-bottom: 0;
+        }
+        a {
+            display: inline-block;
+            padding: 10px;
+            border: 1px solid $color__text-screen;
+            min-width: 100px;
+            text-align: center;
+            color: $color__text-screen;
+            background-color: $color__yelapa-salmon;
+            font-weight: 700;
+            border-radius: 3px;
+            white-space: nowrap;
+            &:visited {
+                color: $color__text-screen;
+            }
+            &:hover {
+                border: 1px solid $color__yelapa-salmon;
+                // border-bottom: none;
+                ;
+                background-color: $color__text-screen;
+                color: $color__yelapa-salmon;
+            }
+        }
+    }
+}

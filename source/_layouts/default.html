@@ -4,16 +4,19 @@
 <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Pacifico|Raleway:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Pacifico|Acme|Raleway:400,700&display=swap" rel="stylesheet">
     <link rel='stylesheet' id='font-awesome-css' href='https://use.fontawesome.com/releases/v5.8.0/css/all.css' type='text/css' media='all' />
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/lightbox.css">
 </head>
 
 <body>
     <header>
         <div class="site-title-container">
-            <h1 class="site-title"> {{site.title}}</h1>
-            <p class="site-description">{{site.description}}</p>
+            <a href="/" alt="{{site.title}}">
+                <h1 class="site-title"> {{site.title}}</h1>
+                <p class="site-description">{{site.description}}</p>
+            </a>
         </div>
         {% include navigation.html %}
 
@@ -22,6 +25,8 @@
 
     {% if page.url == "/" %}
     <div class="banner"> {% include youtube-player.html id=page.youtubeId %}</div>
+    {% endif %} {% if page.banner != "" %}
+    <div class="banner"> {% include banner.html %}</div>
     {% endif %}
 
     <div class="main">
@@ -33,6 +38,7 @@
     <footer>
         {% include footer.html %}
     </footer>
+    <script src="/assets/js/lightbox-plus-jquery.js"></script>
 </body>
 
 </html>

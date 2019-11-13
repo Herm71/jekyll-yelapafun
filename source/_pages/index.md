@@ -3,6 +3,8 @@ layout: default
 title: Casa Luna @ Casas Santa Cruz
 permalink: "/"
 youtubeId: "TQLwUEtAw6Q"
+galleryid: luna
+banner: ""
 ---
 
 <figure markdown="1" class="left">
@@ -27,13 +29,12 @@ All our casitas come stocked with linens, towels and dishes for your comfort and
 
 - ***Three*** night minimum
 
-## Photos
-
-{% include gallery.html folder="/assets/images/gallery" %}
-
 ## Reservations and contact
 
 For reservations, please see our pages on **AirB&B** and **TripAdvisor**; if you have any questions, please send us an **email.**
 
 {% include elsewhere.html %}
 
+## Photos
+
+{% include gallery.html %}

@@ -1,0 +1,62 @@
+- id: luna
+  description: "This is the first gallery"
+  imagefolder: /img/demopage
+  images:
+  - name: luna-1.jpg
+    thumb: luna-1.jpg
+    text: Upstairs bedroom
+  - name: luna-2.jpg
+    thumb: luna-2.jpg
+    text: Upstairs bedroom overlooking the cove
+  - name: luna-3.jpg
+    thumb: luna-3.jpg
+    text: Upstairs hanging bed
+  - name: luna-4.jpg
+    thumb: luna-4.jpg
+    text: Downstairs sleeping area
+  - name: luna-5.jpg
+    thumb: luna-5.jpg
+    text: Downstairs sleeping area
+  - name: luna-6.jpg
+    thumb: luna-6.jpg
+    text: Downstairs living area with kitchen
+  - name: luna-7.jpg
+    thumb: luna-7.jpg
+    text: Kitchen and dining area
+  - name: luna-8.jpg
+    thumb: luna-8.jpg
+    text: Upstairs
+  - name: luna-9.jpg
+    thumb: luna-9.jpg
+    text: Upstairs living area
+  - name: luna-10.jpg
+    thumb: luna-10.jpg
+    text: Upstairs living area
+  - name: luna-11.jpg
+    thumb: luna-11.jpg
+    text: Overlooking the cove
+  - name: luna-12.jpg
+    thumb: luna-12.jpg
+    text: Casa Luna entrance
+  - name: luna-13.jpg
+    thumb: luna-13.jpg
+    text: Casa Luna entrance 
+  - name: luna-14.jpg
+    thumb: luna-14.jpg
+    text: Bathroom and shower
+  - name: luna-15.jpg
+    thumb: luna-15.jpg
+    text: Bathroom sink
+- id: anothergallery
+  description: This is even another gallery!
+  imagefolder: /img/demopage
+  images:
+  - name: image-4.jpg
+    luna: luna-4.jpg
+    text: Another gallery, first image
+  - name: image-5.jpg
+    luna: luna-5.jpg
+    text: Another gallery, second image
+  - name: image-6.jpg
+    luna: luna-6.jpg
+    text: Another gallery, third image

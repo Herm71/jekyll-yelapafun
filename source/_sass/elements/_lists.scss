@@ -20,6 +20,7 @@
     
     li>p {
         margin-bottom: 0;
+        // display: inline-block;
     }
     
     dt {
@@ -34,4 +35,31 @@
         list-style: none;
         padding: 0;
         margin: 0;
+    }
+    
+    .content {
+        ul {
+            list-style: none;
+            li {
+                &::before {
+                    content: "\2022";
+                    font-weight: bold;
+                    color: $color__text-screen;
+                    display: inline-block;
+                    width: 1em;
+                    margin-left: -1em;
+                }
+                p {
+                    display: inline-block
+                }
+            }
+        }
+    }
+    
+    .photo-set {
+        li {
+            &::before {
+                content: ""!important;
+            }
+        }
     }
