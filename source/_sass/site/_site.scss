@@ -23,7 +23,7 @@ footer {
 }
 
 .site-title-container {
-    padding: 1em;
+    padding: 1rem;
     .site-title,
     .site-description {
         width: 100%;
@@ -35,7 +35,7 @@ footer {
 .site-title {
     @include font-size(2.25);
     font-family: $font__title;
-    text-shadow: -1px -1px #3F4E68;
+    text-shadow: -0.0625rem -0.0625rem #3F4E68;
     margin: 0;
 }
 
@@ -66,27 +66,25 @@ footer {
 
 .left {
     float: left;
-    margin: 0 1em 1em 0;
+    margin: 0 1rem 1rem 0;
 }
 
 .right {
     float: right;
-    margin: 0 0 1em 1em;
+    margin: 0 0 1rem 1rem;
 }
 
 .footer-credits {
     list-style-type: none;
     margin: 0 auto;
-    li {
-        display: inline-block;
-        a {
-            min-width: 100px;
-            padding: 10px 10px 10px 0;
-        }
-        i {
-            color: $color__yelapa-salmon;
-            @include font-size(2);
-        }
+    a {
+        min-width: 100px;
+        padding: 0 1rem;
+        text-align: center;
+    }
+    i {
+        color: $color__yelapa-salmon;
+        @include font-size(2);
     }
 }
 
@@ -104,7 +102,7 @@ div.elsewhere {
         background-color: #F27853;
         margin: 0 auto;
         text-align: center;
-        border-radius: 3px;
+        border-radius: 0.1875rem;
         i,
         span {
             width: 100%;

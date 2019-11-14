@@ -22,24 +22,34 @@
         {% include navigation.html %}
 
     </header>
-    <!-- <div class="banner"><img src="https://d33wubrfki0l68.cloudfront.net/d83d8d3fabfd003176ee958855b295dc57eec642/d7d3c/assets/2019/lightning-e9a125ef9c009621d5b2b0e3f57b1b8013b98e8cdaa4e479e2cbd0598d8b5d14.jpg"></div> -->
 
     {% if page.url == "/" %}
     <div class="banner"> {% include youtube-player.html id=page.youtubeId %}</div>
-    {% endif %} {% if page.banner != "" %}
-    <div class="banner"> {% include banner.html %}</div>
+    {% endif %} 
+    {% if page.banner != "" %}
+    <div class="banner">
+        {% include banner.html %}</div>
     {% endif %}
 
     <div class="main">
         <section class="content">
+        {% if page.url != "/"%}
+        <h1>{{page.title}}
+        <hr>
+        {%endif%}
             {{ content }}
         </section>
 
     </div>
+    {% include back-to-top.html %}
     <footer>
+    <hr>
         {% include footer.html %}
     </footer>
-    <script src="/assets/js/lightbox-plus-jquery.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="/assets/js/lightbox.min.js"></script>
+    <script src="/assets/js/back-to-top.js"></script>
+
 </body>
 
 </html>

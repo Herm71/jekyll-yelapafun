@@ -1,4 +1,6 @@
 - name: FAQ
   link: /faq/
+  tabindex: 1
 - name: Getting Here
   link: /getting-to-yelapa/
+  tabindex: 2

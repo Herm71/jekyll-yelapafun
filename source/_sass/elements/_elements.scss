@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    font-size: 100%;
 }
 
 *,
@@ -20,18 +21,18 @@ body {
 }
 
 footer {
-    padding: 1em;
+    padding: 1rem;
 }
 
 p {
-    margin: 0 0 1.5em;
+    margin: 0 0 1.5rem;
 }
 
 hr {
     background-color: $color__background-hr;
     border: 0;
     height: 1px;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.5rem;
 }
 
 img {
@@ -43,7 +44,7 @@ img {
 
 figure {
     margin: 0;
-    padding: 0 0 1em;
+    padding: 0 0 1rem;
     p {
         margin: 0;
     }

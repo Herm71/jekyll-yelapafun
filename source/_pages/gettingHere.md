@@ -4,10 +4,8 @@ title: How to get here
 permalink: "/getting-to-yelapa/"
 banner: "water-taxi.jpg"
 ---
-## {{page.title}}
-
 ### Flights
-Getting to Yelapa, requires getting to Puerto Vallarta, Jalisco, MX.
+Getting to Yelapa, requires getting to [Puerto Vallarta, Jalisco, MX](https://www.google.com/maps/place/Puerto+Vallarta,+Jalisco,+Mexico/@20.6408576,-105.2945647,12z/data=!3m1!4b1!4m5!3m4!1s0x842145635063c87f:0x79cfbf9985bf5274!8m2!3d20.653407!4d-105.2253316).
 
 This isn’t difficult, as Puerto Vallarta is a popular vacation destination. There are many flights offered by several airlines coming into Gustavo Diaz Ordaz International Airport (code PVR). This page, Air travel to Puerto Vallarta, lists airlines that provide direct flights from major cities in Canada, The United States and Mexico.
 

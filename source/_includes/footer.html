@@ -1,11 +1,11 @@
-<ul class="footer-credits">
+<div class="footer-credits">
     {% for item in site.data.footerCredits %}
-    <li>
-        <a href="{{ item.link }}">
-            <i class="{{item.fontAwesome}}"></i>
-        </a>
-    </li> {% endfor %}
-</ul>
+
+    <a href="{{ item.link }}">
+        <i class="{{item.fontAwesome}}"></i>
+
+    </a> {% endfor %}
+</div>
 <div class="copyright">
-    <p>copyright 2004-{{ "now" | date: "%Y"}}</p>
+    <p>Copyright &copy; 2004-{{ "now" | date: "%Y" }} Yelapa Fun | Casas Santa Cruz | Casa Luna</p>
 </div>
