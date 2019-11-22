@@ -8,7 +8,7 @@ banner: ""
 ---
 
 <figure markdown="1" class="left">
-![casa-luna]({{site.url}}/assets/images/casa-luna.jpg){:class=""}{:width="250px"}
+{% asset casa-luna.jpg alt='alt text' width='250px' class="class" %}
 </figure> 
 
 Waking up to the view of Yelapa Bay from Casa Luna is simply divine! This uniquely-built two-story casita is ideal for a spiritual retreat, romance, or just some peaceful relaxation.
@@ -27,7 +27,7 @@ All our casitas come stocked with linens, towels and dishes for your comfort and
 
 - **Maximum Occupancy:** Five
 
-- ***Three*** night minimum
+- ***Three night minimum***
 
 ## Reservations and contact
 

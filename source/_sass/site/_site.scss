@@ -100,10 +100,19 @@ div.elsewhere {
         width: 100%;
         height: auto;
         padding: 1em;
-        background-color: #F27853;
+        background-color: $color__yelapa-salmon;
         margin: 0 auto;
         text-align: center;
         border-radius: 0.1875rem;
+        border-bottom: none;
+        &:hover {
+            background-color: $color__text-screen;
+            // border: 1px solid $color__yelapa-salmon;
+            i,
+            span {
+                color: $color__yelapa-salmon;
+            }
+        }
         i,
         span {
             width: 100%;
