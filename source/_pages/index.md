@@ -8,7 +8,7 @@ banner: ""
 ---
 
 <figure markdown="1" class="left">
-{% asset casa-luna.jpg alt='alt text' width='250px' class="class" %}
+{% asset casa-luna.jpg alt='Casa Luna welcomes you' width='250px' class="intro" %}
 </figure> 
 
 Waking up to the view of Yelapa Bay from Casa Luna is simply divine! This uniquely-built two-story casita is ideal for a spiritual retreat, romance, or just some peaceful relaxation.

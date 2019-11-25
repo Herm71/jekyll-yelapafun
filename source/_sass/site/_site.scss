@@ -33,7 +33,10 @@ footer {
 }
 
 .site-title {
-    @include font-size(2.25);
+    @include font-size(2.125);
+    @media only screen and (min-width: $screen-size--medium) {
+        @include font-size(2.25);
+    }
     font-family: $font__title;
     text-shadow: -0.0625rem -0.0625rem #3F4E68;
     margin: 0;
@@ -65,13 +68,17 @@ footer {
 }
 
 .left {
-    float: left;
-    margin: 0 1rem 1rem 0;
+    @media only screen and (min-width: $screen-size--medium) {
+        float: left;
+        margin: 0 1rem 1rem 0;
+    }
 }
 
 .right {
-    float: right;
-    margin: 0 0 1rem 1rem;
+    @media only screen and (min-width: $screen-size--medium) {
+        float: right;
+        margin: 0 0 1rem 1rem;
+    }
 }
 
 .footer-credits {

@@ -42,9 +42,18 @@ img {
     /* Adhere to container width. */
 }
 
+figure,
+figure.left,
+figure.right {
+    margin: 0 auto;
+    text-align: center;
+}
+
 figure {
-    margin: 0;
-    padding: 0 0 1rem;
+    @media only screen and (min-width: $screen-size--medium) {
+        margin: 0;
+        padding: 0 0 1rem;
+    }
     p {
         margin: 0;
     }

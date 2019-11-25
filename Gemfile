@@ -9,6 +9,7 @@ gem 'html-proofer'
 gem 'bourbon', '4.2.7'
 gem 'neat', '1.8.0'
 gem 'mini_magick'
+gem 'image_optim'
 gem 'scss_lint'
 
 group :jekyll_plugins do
