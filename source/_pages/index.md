@@ -21,7 +21,7 @@ All our casitas come stocked with linens, towels and dishes for your comfort and
 
 - **Beds:** 2 queens and one twin/couch
 
-- **Baths:** One with shower
+- **Baths:** One with shower downstairs, plus half-bath upstairs
 
 - **Kitchen:** four-burner stove and three-quarter size refrigerator
 
@@ -31,7 +31,7 @@ All our casitas come stocked with linens, towels and dishes for your comfort and
 
 ## Reservations and contact
 
-For reservations, please see our pages on **AirB&B** and **TripAdvisor**; if you have any questions, please send us an **email.**
+For reservations, please send us an **email.**
 
 {% include elsewhere.html %}
 

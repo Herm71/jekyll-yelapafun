@@ -112,6 +112,7 @@ div.elsewhere {
         text-align: center;
         border-radius: 0.1875rem;
         border-bottom: none;
+        grid-column-start: 2;
         &:hover {
             background-color: $color__text-screen;
             // border: 1px solid $color__yelapa-salmon;
