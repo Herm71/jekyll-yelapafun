@@ -4,7 +4,7 @@ title: COVID-19 information
 permalink: "/covid-19-notice/"
 banner: 
 ---
-During this challenging time, we are cautiously opening up Casa Luna and want to continue to provide the best Yelapa experience for you. We are taking extensive precautions in our hosting practices to mitigate the risk of virus transmission; this includes a number of revised policies for guests when coming to the Casa during this time:
+During this challenging time, we are cautiously opening up **Casa Luna** and want to continue to provide the best Yelapa experience for you. We are taking extensive precautions in our hosting practices to mitigate the risk of virus transmission; this includes a number of revised policies for guests when coming to the Casa during this time:
 
 We have been cleared by the Mexican state of Jalisco to open our guest house, but as we open up Casa Luna, we would like to reassure our guests of the policy that we at Casas Santa Cruz are putting in place to maintain your health and safety and that of our workers and our community.
 

@@ -4,7 +4,7 @@ title: Casa Luna @ Casas Santa Cruz
 permalink: "/"
 youtubeId: "TQLwUEtAw6Q"
 galleryid: luna
-banner: ""
+banner:
 ---
 
 <figure markdown="1" class="left">
