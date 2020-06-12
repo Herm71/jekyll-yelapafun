@@ -25,8 +25,8 @@
 
     {% if page.url == "/" %}
     <div class="banner"> {% include youtube-player.html id=page.youtubeId %}</div>
-    {% endif %} 
-    {% if page.banner != "" %}
+    {% endif %}
+    {% if page.banner %}
     <div class="banner">
         {% include banner.html %}</div>
     {% endif %}
@@ -34,8 +34,7 @@
     <div class="main">
         <section class="content">
         {% if page.url != "/"%}
-        <h1>{{page.title}}
-        <hr>
+        <h2>{{page.title}}</h2>
         {%endif%}
             {{ content }}
         </section>

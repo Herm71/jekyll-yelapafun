@@ -4,3 +4,6 @@
 - name: Getting Here
   link: /getting-to-yelapa/
   tabindex: 2
+- name: COVID-19 Notice
+  link: /covid-19-notice/
+  tabindex: 3
