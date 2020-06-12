@@ -25,9 +25,7 @@ Yelapa is a small village with very little crime. Seldom is there a problem with
 
 ## Is the path safe to walk on?
 
-The path is rocky and a bit uneven,  but is passable by most able bodied people. The paths are not wheel chair accessible and we do not recommend if walking is a challenge. Here is a video:
-
-[TODO: Video]
+The path is rocky and a bit uneven,  but is passable by most able bodied people. The paths are not wheel chair accessible and we do not recommend if walking is a challenge.
 
 ## What about wildlife and insects?
 

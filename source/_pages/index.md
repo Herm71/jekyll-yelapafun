@@ -13,7 +13,7 @@ banner: ""
 
 Waking up to the view of Yelapa Bay from Casa Luna is simply divine! This uniquely-built two-story casita is ideal for a spiritual retreat, romance, or just some peaceful relaxation.
 
-The upper level has a hanging queen-size bed, a small private living room and a hammock fit for two. The main floor has a stationary queen-sized bed, a twin bed/couch, a palapa-roofed bathroom and a full kitchen that includes a four-burner stove, a refrigerator, a coffee maker and a blender. The high ceiling and skylight in the kitchen create a feeling of openness and light which abound throughout Casa Luna.
+The upper level has a hanging queen-size bed, a small private living room, a half-bath and a hammock fit for two. The main floor has a stationary queen-sized bed, a twin bed/couch, a palapa-roofed bathroom and a full kitchen that includes a four-burner stove, a refrigerator, a coffee maker and a blender. The high ceiling and skylight in the kitchen create a feeling of openness and light which abound throughout Casa Luna.
 
 All our casitas come stocked with linens, towels and dishes for your comfort and a lockbox for your valuables.
 
