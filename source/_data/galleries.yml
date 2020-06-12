@@ -2,9 +2,6 @@
   description: ""
   imagefolder: /assets/images/gallery/ #not using this
   images:
-  - name: luna-1.jpg
-    thumb: luna-1.jpg
-    text: Upstairs bedroom
   - name: luna-2.jpg
     thumb: luna-2.jpg
     text: Upstairs bedroom overlooking the cove
@@ -20,9 +17,6 @@
   - name: luna-8.jpg
     thumb: luna-8.jpg
     text: Upstairs
-  - name: luna-9.jpg
-    thumb: luna-9.jpg
-    text: Upstairs living area
   - name: luna-10.jpg
     thumb: luna-10.jpg
     text: Upstairs living area
