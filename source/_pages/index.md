@@ -34,6 +34,7 @@ All our casitas come stocked with linens, towels and dishes for your comfort and
 For reservations, please send us an **email.**
 
 {% include elsewhere.html %}
+{% include calendar.html %}
 
 ## Photos
 
