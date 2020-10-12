@@ -38,9 +38,12 @@
   - name: luna-3.jpg
     thumb: luna-3.jpg
     text: Upstairs hanging bed
-  - name: luna-10.jpg
-    thumb: luna-10.jpg
+  - name: upstairs.jpg
+    thumb: upstairs.jpg
     text: Upstairs living area
+  - name: upstairs-balcony.jpg
+    thumb: upstairs-balcony.jpg
+    text: View from upstairs living area
   - name: luna-11.jpg
     thumb: luna-11.jpg
     text: Overlooking the cove
