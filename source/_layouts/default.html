@@ -2,8 +2,10 @@
 <html>
 
 <head>
+  {% include gtm-head.html %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include csp.html %}
     <title>{{ page.title }}</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Pacifico|Acme|Raleway:400,700&display=swap" rel="stylesheet">
     <link rel='stylesheet' id='font-awesome-css' href='https://use.fontawesome.com/releases/v5.8.0/css/all.css' type='text/css' media='all' />
@@ -12,6 +14,7 @@
 </head>
 
 <body>
+{% include gtm-body.html %}
     <header>
         <div class="site-title-container">
             <a href="/" alt="{{site.title}}">
