@@ -1,3 +1,8 @@
+# Site Settings
+title: "Casa Luna @ Yelapa"
+description: a retreat from the busy world
+timezone: America/Los_Angeles
+url: "https://casalunayelapa.com"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -9,15 +14,6 @@ plugins:
 # Structure configuration
 source: ./source
 destination: ./build
-
-
-
-# Site Settings
-title: "Casa Luna @ Casas Santa Cruz"
-description: a retreat from the busy world
-timezone: America/Los_Angeles
-url: https://www.yelapafun.com
-
 # Build Settings
 markdown: kramdown
 kramdown:
