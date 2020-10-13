@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -azP --progress /home/jason/Projects/jekyll-yelapafun/build/ yelapafun:/home/yelapafun/public_html
+rsync -azP --progress /home/jason/Projects/jekyll-yelapafun/build/ cl:/home/casalunayelapa/public_html
