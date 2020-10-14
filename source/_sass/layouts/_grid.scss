@@ -69,8 +69,12 @@ body {
     align-content: center;
 }
 
-.photo-set {
+.photo-set,
+.rates-grid {
     display: grid;
+}
+
+.photo-set {
     grid-template-columns: 1fr 1fr;
     @media only screen and (min-width: $screen-size--medium) {
         grid-template-columns: repeat(3, minmax(100px, 1fr));
@@ -84,5 +88,19 @@ body {
     margin: 0 auto;
     li {
         margin: 0 auto 2rem;
+    }
+}
+
+.rates-grid {
+    grid-template-columns: 1fr;
+    span {
+        font-weight: 700;
+    }
+    p {
+        font-style: italic
+    }
+    @media only screen and (min-width: $screen-size--medium) {
+        grid-template-columns: 1fr 1fr;
+        max-width: none;
     }
 }

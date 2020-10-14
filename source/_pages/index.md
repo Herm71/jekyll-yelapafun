@@ -29,12 +29,16 @@ All our casitas come stocked with linens, towels and dishes for your comfort and
 
 - ***Three night minimum***
 
+## Rates
+
+{% include rates-grid.html %}
+
 ## Reservations and contact
 
 For reservations, please send us an **email.**
 
-{% include elsewhere.html %}
 {% include calendar.html %}
+{% include elsewhere.html %}
 
 ## Photos
 

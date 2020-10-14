@@ -1,0 +1,19 @@
+<div class="rates-grid">
+    <div class="high-rates">
+        <h3>{{site.data.rates.season_high}}</h3>
+        <ul>
+            {% for rate in site.data.rates.hi_rates %}
+            <li><span>{{rate.head}}:</span> {{rate.value}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="low-rates">
+        <h3>{{site.data.rates.season_low}}</h3>
+        <ul>
+            {% for rate in site.data.rates.lo_rates %}
+            <li><span>{{rate.head}}:</span> {{rate.value}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <p>&#42;Pricing in US dollars</p>
+</div>

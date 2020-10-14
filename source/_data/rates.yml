@@ -1,10 +1,12 @@
-- head: Unit
-  value: Casa Luna
+season_high: High season&#58; Oct. -- May
+hi_rates:
 - head: Nightly
-  value: $145 USD
+  value: $145
 - head: Weekly
-  value: $950 USD
+  value: $950
 - head: Monthly
-  value: $3,500 USD
-- head: Low Season Nightly**
-  value: $125 USD
+  value: $3,500
+season_low: Low season&#58; June -- Sept.
+lo_rates:
+- head: Nightly
+  value: $125
