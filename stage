@@ -1,0 +1,2 @@
+#!/bin/bash
+bundle exec jekyll build && rsync -azP --progress /home/jason/Projects/jekyll-yelapafun/build/ bbstage:/home/blackbirdstaging/public_html/casaluna
