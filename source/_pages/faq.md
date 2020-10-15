@@ -7,7 +7,7 @@ banner: "yelapa-pier.jpg"
 
 ## How do I get there?
 
-There are no roads to Yelapa from Puerto Vallarta. Visitors typically arrive by boat. We have a couple of pages that describe how to get here. Please see: [Getting to Yelapa]({{site.url}}/getting-to-yelapa/)
+There are no roads to Yelapa from Puerto Vallarta. Visitors typically arrive by boat. We have a couple of pages that describe how to get here. Please see: [Getting to Yelapa](/getting-to-yelapa/)
 
 ## Water Taxi Information
 
@@ -41,7 +41,7 @@ The summer rains bring more insects than the drier months.  All beds have nets.
 
 ## Should I bring my laptop?
 
-You may, but considering the damage salt air can do to sensitive electronics, it might be best to use the local Internet. However, WiFi is available at Casas Santa Cruz for those who need to keep a foot in the “other world” Here is some good info on electronics in the tropics
+You may, but considering the damage salt air can do to sensitive electronics, it might be best to use the local Internet. However, WiFi is available at Casas Santa Cruz for those who need to keep a foot in the “other world.”
 
 ## Do I need to bring my own towels and linens?
 
@@ -57,11 +57,9 @@ Food at the local restaurants is delicious and fairly inexpensive by US standard
 
 You should exchange some American dollars for pesos. Most local stores and restaurants will take American dollars, and the merchants are fair, but the exchange rate is often rounded off for convenience — and not always to your favor.
 
-Click here for an up to date Currency Converter
+## Are there banks and ATMs in Yelapa?
 
-### Are there banks and ATMs in Yelapa?
-
-NO!!!   You will need to go to Puerto Vallarta for your banking. The best rate of exchange is usually from an ATM.
+NO! You will need to go to Puerto Vallarta for your banking. The best rate of exchange is usually from an ATM.
 
 ## I don’t speak Spanish. Will this be a problem?
 
