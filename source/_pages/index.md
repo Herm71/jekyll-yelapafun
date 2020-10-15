@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Casa Luna @ Casas Santa Cruz
+title: Casa Luna &ndash; Yelapa, Jalisco, MX
 permalink: "/"
 youtubeId: "TQLwUEtAw6Q"
 galleryid: luna
