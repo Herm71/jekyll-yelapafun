@@ -25,6 +25,8 @@ All our casitas come stocked with linens, towels and dishes for your comfort and
 
 - **Kitchen:** four-burner stove and three-quarter size refrigerator
 
+- **Lockbox:** to store your valuables
+
 - **Maximum Occupancy:** Five
 
 - ***Three night minimum***

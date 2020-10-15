@@ -1,5 +1,5 @@
 body {
-    background-color: $color__background-body;
+    background-color: $color__yelapa-blue;
     display: grid;
     grid-template-columns: auto;
     @media only screen and (min-width: $screen-size--medium) {
@@ -21,9 +21,13 @@ body {
         }
     }
     .banner {
-        margin: 0 auto;
+        margin: 20px auto 10px;
         max-width: $size__max-width;
         max-height: 50vh;
+        min-height: 325px;
+        iframe {
+            border: 1px solid $color__yelapa-salmon;
+        }
     }
     .main {
         display: grid;
