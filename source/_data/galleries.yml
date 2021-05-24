@@ -2,76 +2,100 @@
   description: ""
   imagefolder: /assets/images/gallery/ #not using this
   images:
-  - name: luna-12.jpg
-    thumb: luna-12.jpg
-    text: Casa Luna entrance
-  - name: luna-13.jpg
-    thumb: luna-13.jpg
-    text: Casa Luna entrance
-  - name: 20191212_131311.jpg
-    thumb: 20191212_131311.jpg
-    text: Downstairs living area
-  - name: luna-6.jpg
-    thumb: luna-6.jpg
-    text: Downstairs living area with kitchen
-  - name: 20191212_131146.jpg
-    thumb: 20191212_131146.jpg
-    text: Downstairs Kitchen
-  - name: 20191212_131656.jpg
-    thumb: 20191212_131656.jpg
-    text: Kitchen, looking out
-  - name: luna-7.jpg
-    thumb: luna-7.jpg
-    text: Kitchen and dining area
-  - name: luna-14.jpg
-    thumb: luna-14.jpg
-    text: Downstairs bathroom and shower
-  - name: luna-15.jpg
-    thumb: luna-15.jpg
-    text: Downstairs bathroom sink
-  - name: luna-8.jpg
-    thumb: luna-8.jpg
-    text: Upstairs
-  - name: luna-2.jpg
-    thumb: luna-2.jpg
-    text: Upstairs bedroom overlooking the cove
-  - name: luna-3.jpg
-    thumb: luna-3.jpg
-    text: Upstairs hanging bed
-  - name: upstairs.jpg
-    thumb: upstairs.jpg
-    text: Upstairs living area
-  - name: upstairs-balcony.jpg
-    thumb: upstairs-balcony.jpg
-    text: View from upstairs living area
-  - name: luna-11.jpg
-    thumb: luna-11.jpg
-    text: Overlooking the cove
-  - name: 20191212_130810.jpg
-    thumb: 20191212_130810.jpg
-    text: Upstairs bathroom entry
-  - name: 20191212_130819.jpg
-    thumb: 20191212_130819.jpg
-    text: Upstairs bathroom entry
-  - name: 20191212_131836.jpg
-    thumb: 20191212_131836.jpg
-    text: Upstairs bathroom mirror
-  - name: 20191212_131843.jpg
-    thumb: 20191212_131843.jpg
-    text: Upstairs bathroom sink
-  - name: IMG_20191212_175841.jpg
-    thumb: IMG_20191212_175841.jpg
-    text: Local kitty
+    - name: 20210409_155536.jpg
+      thumb: 20210409_155536.jpg
+      text: Casa Luna (center) from the beach
+    - name: 20210409_155201.jpg
+      thumb: 20210409_155201.jpg
+      text: Casa Luna
+    - name: 20210409_155618.jpg
+      thumb: 20210409_155618.jpg
+      text: Casa Luna's beach
+    - name: 20210409_155544.jpg
+      thumb: 20210409_155544.jpg
+      text: Casa Luna from the beach
+    - name: 20210409_155426.jpg
+      thumb: 20210409_155426.jpg
+      text: Beach in fron of Casa Luna
+    - name: 20210409_155207.jpg
+      thumb: 20210409_155207.jpg
+      text: Casa Luna
+    - name: 20210409_155618.jpg
+      thumb: 20210409_155618.jpg
+      text: Beach in front of Casa Luna
+    - name: 20210409_155214.jpg
+      thumb: 20210409_155214.jpg
+      text: Tidepools in front of Casa Luna
+    - name: luna-12.jpg
+      thumb: luna-12.jpg
+      text: Casa Luna entrance
+    - name: luna-13.jpg
+      thumb: luna-13.jpg
+      text: Casa Luna entrance
+    - name: 20191212_131311.jpg
+      thumb: 20191212_131311.jpg
+      text: Downstairs living area
+    - name: luna-6.jpg
+      thumb: luna-6.jpg
+      text: Downstairs living area with kitchen
+    - name: 20191212_131146.jpg
+      thumb: 20191212_131146.jpg
+      text: Downstairs Kitchen
+    - name: 20191212_131656.jpg
+      thumb: 20191212_131656.jpg
+      text: Kitchen, looking out
+    - name: luna-7.jpg
+      thumb: luna-7.jpg
+      text: Kitchen and dining area
+    - name: luna-14.jpg
+      thumb: luna-14.jpg
+      text: Downstairs bathroom and shower
+    - name: luna-15.jpg
+      thumb: luna-15.jpg
+      text: Downstairs bathroom sink
+    - name: luna-8.jpg
+      thumb: luna-8.jpg
+      text: Upstairs
+    - name: luna-2.jpg
+      thumb: luna-2.jpg
+      text: Upstairs bedroom overlooking the cove
+    - name: luna-3.jpg
+      thumb: luna-3.jpg
+      text: Upstairs hanging bed
+    - name: upstairs.jpg
+      thumb: upstairs.jpg
+      text: Upstairs living area
+    - name: upstairs-balcony.jpg
+      thumb: upstairs-balcony.jpg
+      text: View from upstairs living area
+    - name: luna-11.jpg
+      thumb: luna-11.jpg
+      text: Overlooking the cove
+    - name: 20191212_130810.jpg
+      thumb: 20191212_130810.jpg
+      text: Upstairs bathroom entry
+    - name: 20191212_130819.jpg
+      thumb: 20191212_130819.jpg
+      text: Upstairs bathroom entry
+    - name: 20191212_131836.jpg
+      thumb: 20191212_131836.jpg
+      text: Upstairs bathroom mirror
+    - name: 20191212_131843.jpg
+      thumb: 20191212_131843.jpg
+      text: Upstairs bathroom sink
+    - name: IMG_20191212_175841.jpg
+      thumb: IMG_20191212_175841.jpg
+      text: Local kitty
 - id: anothergallery
   description: This is even another gallery!
   imagefolder: /img/demopage
   images:
-  - name: image-4.jpg
-    luna: luna-4.jpg
-    text: Another gallery, first image
-  - name: image-5.jpg
-    luna: luna-5.jpg
-    text: Another gallery, second image
-  - name: image-6.jpg
-    luna: luna-6.jpg
-    text: Another gallery, third image
+    - name: image-4.jpg
+      luna: luna-4.jpg
+      text: Another gallery, first image
+    - name: image-5.jpg
+      luna: luna-5.jpg
+      text: Another gallery, second image
+    - name: image-6.jpg
+      luna: luna-6.jpg
+      text: Another gallery, third image
